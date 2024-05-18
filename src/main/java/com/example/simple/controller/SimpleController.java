@@ -16,7 +16,7 @@ public class SimpleController {
 
 	/**
 	 * ホームを表示する
-	 * @param model application.nameの値を保持する
+	 * @param model spring.application.nameの値を保持する
 	 * @return home.htmlを表示する 
 	 */
 	@GetMapping("/")
