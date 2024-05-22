@@ -6,7 +6,7 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 
 /**
- * html出力の制御を処理する
+ * ホームページを表示する
  * @author yuuki
  */
 @Controller
