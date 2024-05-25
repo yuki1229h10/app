@@ -11,5 +11,5 @@ import com.example.simple.entity.Book;
  *
  */
 public interface BookRepository extends JpaRepository<Book, Integer> {
-	// ここには何も記述しない
+
 }
